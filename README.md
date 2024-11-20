@@ -1,12 +1,13 @@
 # Pac-Man
 > Language: Java
 
-This is a sub-version of the retro game more commonly known as "Space Invader", and has the main goal of trying to
-get the highest score possible, you get +100 points per alien destroyed and after completing a level you get bonus 
-points, depending on how what level you are on. You get an additional 5 bullets for completing a level, so make 
-sure you shoot accurately! The game ends when you run out of bullets and power-ups, or when the aliens
-get to the last row.
+Sub-version of the popular game known as Pac-man. The main goal is to collect the pellets before the ghost try 
+and hit you, if you hit them once its game over. The game will end once all the pellets are collected and will 
+give you a score to see how far ou progressed through the game time. 
 
+**Possible Add-ins**
+- Add the power-ups where Pac-man is able to consume ghosts
+- Add levels to the game where the ghosts become faster
 ________________________________________________________________________________
 Instructions for player:
 
