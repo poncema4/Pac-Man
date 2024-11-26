@@ -19,8 +19,6 @@ Move down -> "Down arrow key"
 
 Move up -> "Up arrow key"
 ________________________________________________________________________________
-<img src=" " width=35.25% height=35.25%>
-
-<img src=" " width=35% height=35%>
+<img src="https://github.com/user-attachments/assets/07a5ab59-c804-4711-a128-2242b597e19f" width=35.25% height=35.25%>
 
 ________________________________________________________________________________
